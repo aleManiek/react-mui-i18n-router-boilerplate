@@ -1,7 +1,8 @@
 {
-  "name": "coins-for-animals",
+  "name": "react-typescript-mui-bolilerplate",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "repository": "git://github.com/aleManiek/react-typescript-mui-bolilerplate.git",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/lab": "^4.0.0-alpha.60",
@@ -47,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
