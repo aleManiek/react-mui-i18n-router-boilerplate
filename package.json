@@ -2,7 +2,14 @@
   "name": "react-typescript-mui-bolilerplate",
   "version": "0.1.0",
   "private": false,
-  "repository": "git://github.com/aleManiek/react-typescript-mui-bolilerplate.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleManiek/react-typescript-mui-bolilerplate.git"
+  },
+  "author": {
+    "name": "aleManiek",
+    "url": "https://github.com/aleManiek"
+  },
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/lab": "^4.0.0-alpha.60",
